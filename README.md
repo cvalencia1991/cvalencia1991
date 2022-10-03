@@ -1,13 +1,12 @@
-### Hi there 👋
+# Hey, I'm Cesar,full stack developer 👋
 
-hi, there 
-im cesar valencia 
-im a full stack developer 
+[![Twitter Badge](https://img.shields.io/badge/-@cvalenciaguilar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/cvalenciaguilar) [![Linkedin Badge](https://img.shields.io/badge/-CesarValencia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cvalenciaguilar/)](https://www.linkedin.com/in/cvalenciaguilar/)
+<br/>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Visual Studio Code
-- 🌱 I’m currently learning React Javascript Ruby 
+- 🔭 I’m currently working on **Visual Studio Code**
+- 🌱 I’m currently learning **React, Javascript ,Ruby**
 - 👯 I’m looking to collaborate on with other contents Creator 
 - ⚡ Fun fact: I love see movies and share with my family 
 
