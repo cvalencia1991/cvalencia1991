@@ -6,10 +6,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Visual Studio Code**
-- 🌱 I’m currently learning **React, Javascript ,Ruby**
-- 👯 I’m looking to collaborate on with other contents Creator 
-- ⚡ Fun fact that i love see movies and share with my family 
+- 🌱 I’m currently learning **React, Javascript , Ruby**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://cvalencia1991.github.io/Portfolio/)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **cesar4a6z@gmail.com**
+
+- ⚡ Fun fact **Play games and stay with my family**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
