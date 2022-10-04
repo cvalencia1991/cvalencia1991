@@ -41,12 +41,6 @@ Here are some ideas to get you started:
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=cvalencia1991&show_icons=true&hide_border=true&layout=compact&langs_count=8&&theme=tokyonight -->
 </table>
   
-     
-## My Github data
-   <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cvalencia1991&theme=buefy-dark" />
-  </p>
-  <table>
   <h3>My GitHub Contribution Graph<h3><hr>
      <p align="center">
        <img width="830" src="https://activity-graph.herokuapp.com/graph?username=cvalencia1991&theme=react-dark&hide_border=true&area=true" />
