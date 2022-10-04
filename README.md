@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **React, Javascript , Ruby**
+- 🌱 I’m currently learning **React, Javascript, Ruby**
 - 👨‍💻 All of my projects are available at [Portfolio](https://cvalencia1991.github.io/Portfolio/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **cesar4a6z@gmail.com**
-- ⚡ Fun fact **Play games and stay with my family**
+- ⚡ Fun fact **Play games**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
