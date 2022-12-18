@@ -38,12 +38,7 @@ Here are some ideas to get you started:
 </table>
 
   <h3>My GitHub Contribution Graph<h3><hr>
-     <p align="center">
-       <img width="830" src="https://activity-graph.herokuapp.com/graph?username=cvalencia1991&theme=react-dark&hide_border=true&area=true" />
-      </p>
-   </table>
-   <hr>
-
-   ![](./profile-3d-contrib/profile-green-animate.svg)
-
+  
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cvalencia1991&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
