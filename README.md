@@ -132,5 +132,5 @@ Here are some ideas to get you started:
   <h3>My GitHub Contribution Graph<h3><hr>
 
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cvalencia1991&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cvalencia1991&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
