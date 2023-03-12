@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=cvalencia1991&show_icons=true&hide_border=true&layout=compact&langs_count=8&&theme=tokyonight -->
 </table>
 
-<img src='./profile-3d-contrib/profile-green-animate.svg' alt='contributions'>
+<img src='./profile-3d-contrib/profile-night-rainbow.svg' alt='contributions'>
 
   <h3>My GitHub Contribution Graph<h3><hr>
 
