@@ -1,18 +1,29 @@
 # Hey, I'm Cesar,  I'am A Full stack developer 👋
 
-
 [![Twitter Badge](https://img.shields.io/badge/-@cvalenciaguilar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/cvalenciaguilar) [![Linkedin Badge](https://img.shields.io/badge/-CesarValencia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-valencia-aguilar/)](https://www.linkedin.com/in/cesar-valencia-aguilar/)
 <br/>
-<p align="center">
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
-</p>
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **React, Javascript, Ruby**
+
+
+<table border="0">
+  <tr border="0">
+    <td valign="top"  border="0" width="50%">
+    Here are some ideas to get you started:
+
+- 🌱 I’m currently learning **Typescript, Phyton, C++**
 - 👨‍💻 All of my projects are available at [Portfolio](https://cvalencia1991.github.io/Portfolio/)
-- 💬 Ask me about: **React**
+- 💬 Ask me about: **React and Redux**
 - 📫 How to reach me: **cesar4a6z@gmail.com**
 - ⚡ Fun fact: **Play games**
+     </td>
+    <td valign="top">
+       <p align="center">
+         <img  src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" width="70%" height="40%" />
+        </p>
+     </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -126,8 +137,9 @@ Here are some ideas to get you started:
    </tr>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=cvalencia1991&show_icons=true&hide_border=true&layout=compact&langs_count=8&&theme=tokyonight -->
 </table>
-
-<img src='./profile-3d-contrib/profile-night-rainbow.svg' alt='contributions'>
+   <p align="center">
+      <img src='./profile-3d-contrib/profile-night-rainbow.svg' alt='contributions' width="70%" >
+   </p>
 
   <h3>My GitHub Contribution Graph<h3><hr>
 
