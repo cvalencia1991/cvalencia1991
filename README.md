@@ -1,7 +1,7 @@
 # Hey, I'm Cesar,  I'am A Full stack developer 👋
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@cvalenciaguilar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/cvalenciaguilar) [![Linkedin Badge](https://img.shields.io/badge/-CesarValencia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/cvalenciaguilar/](https://www.linkedin.com/in/cesar-valencia-aguilar/))]([https://www.linkedin.com/in/cvalenciaguilar/](https://www.linkedin.com/in/cesar-valencia-aguilar/))
+[![Twitter Badge](https://img.shields.io/badge/-@cvalenciaguilar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/cvalenciaguilar) [![Linkedin Badge](https://img.shields.io/badge/-CesarValencia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-valencia-aguilar/)](https://www.linkedin.com/in/cesar-valencia-aguilar/)
 <br/>
 <p align="center">
 <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
