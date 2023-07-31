@@ -62,7 +62,7 @@
    </p>
 
    <h3 align="left">Contact With Me:</h3>
-   [![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cesar-valencia-aguilar/) [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cvalenciaguilar)
+   [![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cesar-valencia-aguilar/)
 
 
 
