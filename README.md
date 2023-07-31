@@ -1,4 +1,4 @@
-<h1> # Hey, I'm Cesar,  I'm A Full stack developer 👋 </h1>
+<h1>Hey, I'm Cesar,  I'm A Full stack developer 👋 </h1>
 
 <table border="0">
   <tr border="0">
@@ -62,9 +62,8 @@
    </p>
 
    <h3 align="left">Contact With Me:</h3>
-      <p align="center">
-   [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cvalenciaguilar/)[![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cesar-valencia-aguilar/)[![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cvalenciaguilar)
-   </p>
+   [![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cesar-valencia-aguilar/) [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cvalenciaguilar)
+
 
 
 
