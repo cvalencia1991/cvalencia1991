@@ -62,7 +62,8 @@
    </p>
 
    <h3 align="left">Contact With Me:</h3>
-   [![linkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cesar-valencia-aguilar/)
+   <a href="https://www.linkedin.com/in/cesar-valencia-aguilar/"> <img src="https://skillicons.dev/icons?i=linkedin"></a>
+   
 
 
 
