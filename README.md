@@ -5,9 +5,9 @@
     <td valign="top"  border="0" width="50%">
     Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **TypeScript, Phyton, C#**
+- 🌱 I’m currently learning **C++, C#, Zig**
 - 👨‍💻 All of my projects are available at [Portfolio](https://cvalencia1991.github.io/Portfolio/)
-- 💬 Ask me about: **React and Ruby on Rails**
+- 💬 Ask me about: **Vue and Ruby on Rails**
 - 📫 How to reach me: **cesar4a6z@gmail.com**
 - ⚡ Fun fact: **Play Games**
      </td>
